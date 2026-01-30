@@ -10861,3 +10861,18 @@
      margin-bottom: 20px;
    }
  }
+
+ .logo-img{
+  height: 200px;
+  padding-left: 80px;
+  padding-top: 4px;
+
+ }
+
+@media (max-width: 480px){
+   .logo-img{
+  padding-top: 4px;
+
+ }
+
+ }
